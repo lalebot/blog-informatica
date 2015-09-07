@@ -1,7 +1,14 @@
 ---
 layout: post
 title:  "Jekyll links varios"
-date:   2015-09-06 21:56:04
+tags: Jekyll, wiki
+category: 
+year: 2015
+month: 12
+day: 22
+published: true
+summary: Links varios de Jekyll
+image:
 ---
 # Jekyll
 

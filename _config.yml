@@ -4,7 +4,7 @@ email: ale@blog.com
 description: Simple Blog de testeo de Jekyll.
 baseurl: "/blog"
 url: "http://lalebot.github.io/"
-twitter_username: alepistilli
+twitter_username: alepi
 github_username: lalebot
 timezone : America/Argentina/Cordoba
 
@@ -36,7 +36,7 @@ whitelist: []
 gems:      []
 
 # Conversion
-markdown:    kramdown
+markdown:    redcarpet #kramdown
 highlighter: rouge
 lsi:         false
 excerpt_separator: "\n\n"
@@ -49,6 +49,7 @@ host:    127.0.0.1
 # Outputting
 permalink: /:year/:month/:title
 paginate_path: /page:num
+paginate: 7
 
 quiet:    false
 defaults: []
