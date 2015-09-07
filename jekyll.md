@@ -12,7 +12,8 @@
 
 Instalar Rubygems
 ```
-gem install jekyll
+$ gem install jekyll
+
 # Agregar al /.bashrc
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
 ```
@@ -21,12 +22,9 @@ PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
 
 Estructura base
 ```
-_layouts/
-    default.html
-_posts/
-    2013-02-06-hello-world.md
-_site
-_congif.yml
-index.html
+$ jekyll new .
 ```
- 
+
+# Ver
+- [ ] Liquid
+
