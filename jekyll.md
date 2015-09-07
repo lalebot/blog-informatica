@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Tuto Jekyll"
-date:   2015-09-07
-categories: jekyll
+title:  "Test"
+date:   2015-09-06
 ---
-
 # Jekyll
 
 ### Links Jekyll
@@ -37,4 +35,3 @@ $ jekyll new .
 
 # Ver
 - [ ] Liquid
-
