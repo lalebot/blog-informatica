@@ -1,3 +1,10 @@
-# blog
-
-Blog test
+layout: default
+title: example.com
+{% for post in site.posts %}
+<div class="post">
+   <h2><a href="{{ post.url }}">
+      {{ post.title }}
+   </a></h2>
+   {{ post.content }}
+</div>
+{% endfor %}
