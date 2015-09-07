@@ -4,10 +4,10 @@
     <title>Ale Blog Test</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://lalebot.github.io//blog//</link>
-    <atom:link href="http://lalebot.github.io//blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Sep 2015 22:11:55 -0300</pubDate>
-    <lastBuildDate>Sun, 06 Sep 2015 22:11:55 -0300</lastBuildDate>
+    <link>http://lalebot.github.io//blog/</link>
+    <atom:link href="http://lalebot.github.io//blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Sep 2015 22:20:41 -0300</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2015 22:20:41 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,13 +28,61 @@
 
 </description>
         <pubDate>Sun, 06 Sep 2015 18:56:04 -0300</pubDate>
-        <link>http://lalebot.github.io//blog//jekyll/update/2015/09/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://lalebot.github.io//blog//jekyll/update/2015/09/06/welcome-to-jekyll.html</guid>
+        <link>http://lalebot.github.io//blog/jekyll/update/2015/09/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://lalebot.github.io//blog/jekyll/update/2015/09/06/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Jekyll links varios</title>
+        <description>&lt;h1 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h1&gt;
+
+&lt;h3 id=&quot;links-jekyll&quot;&gt;Links Jekyll&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://github.com/jekyll/jekyll&lt;/li&gt;
+  &lt;li&gt;http://jekyllrb.com/docs/usage/&lt;/li&gt;
+  &lt;li&gt;https://github.com/jekyll/jekyll/wiki/sites&lt;/li&gt;
+  &lt;li&gt;http://joshualande.com/jekyll-github-pages-poole/&lt;/li&gt;
+  &lt;li&gt;http://code.tutsplus.com/tutorials/using-jekyll–cms-20956&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tuto&quot;&gt;Tuto&lt;/h3&gt;
+
+&lt;p&gt;Instalar Rubygems
+```
+$ gem install jekyll&lt;/p&gt;
+
+&lt;h1 id=&quot;agregar-al-bashrc&quot;&gt;Agregar al /.bashrc&lt;/h1&gt;
+&lt;p&gt;PATH=”$(ruby -e ‘print Gem.user_dir’)/bin:$PATH”
+```&lt;/p&gt;
+
+&lt;p&gt;¿Actualizar las gemas luego?&lt;/p&gt;
+
+&lt;p&gt;Estructura base
+&lt;code&gt;
+$ jekyll new .
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ver&quot;&gt;Ver&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;[ ] Liquid&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 06 Sep 2015 18:56:04 -0300</pubDate>
+        <link>http://lalebot.github.io//blog/config/jekyll/2015/09/06/jekyll.html</link>
+        <guid isPermaLink="true">http://lalebot.github.io//blog/config/jekyll/2015/09/06/jekyll.html</guid>
+        
+        
+        <category>config</category>
+        
+        <category>jekyll</category>
         
       </item>
     
