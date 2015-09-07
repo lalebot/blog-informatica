@@ -10,8 +10,10 @@
 
 ### Tuto
 
-Instalar Ruby
-
+Instalar Rubygems
+```
+gem install jekyll
+```
 
 Estructura base
 ```
