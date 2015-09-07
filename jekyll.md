@@ -7,6 +7,7 @@
 + https://github.com/jekyll/jekyll/wiki/sites
 + http://joshualande.com/jekyll-github-pages-poole/
 + http://code.tutsplus.com/tutorials/using-jekyll--cms-20956
++ http://www.dfgonzalez.com/2013/primeros-pasos-en-jekyll.html
 
 ### Tuto
 
