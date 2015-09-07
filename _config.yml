@@ -1,14 +1,79 @@
 # Site settings
-title: Ale Blog Test
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://lalebot.github.io/" # the base hostname & protocol for your site
-twitter_username: apistilli
-github_username:  lalebot
+title: Ale Blog
+email: ale@blog.com
+description: Simple Blog de testeo de Jekyll.
+baseurl: "/blog"
+url: "http://lalebot.github.io/"
+twitter_username: alepistilli
+github_username: lalebot
+timezone : America/Argentina/Cordoba
 
-# Build settings
-markdown: kramdown
+# Where things are
+source: .
+destination: ./_site
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
+data_dir: ./_data
+includes_dir: ./_includes
+collections: null
+
+# Handling Reading
+safe:         false
+include:      [".htaccess"]
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
+
+# Plugins
+whitelist: []
+gems:      []
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+
+# Outputting
+permalink: date
+paginate_path: /page:num
+
+quiet:    false
+defaults: []
+
+# Markdown Processors
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  input: GFM
+  syntax_highlighter: rouge
+
+  coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      inline
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               style

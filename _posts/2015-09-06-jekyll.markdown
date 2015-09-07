@@ -2,12 +2,10 @@
 layout: post
 title:  "Jekyll links varios"
 date:   2015-09-06 21:56:04
-categories: config jekyll
 ---
 # Jekyll
 
 ### Links Jekyll
-
 + https://github.com/jekyll/jekyll
 + http://jekyllrb.com/docs/usage/
 + https://github.com/jekyll/jekyll/wiki/sites
@@ -15,7 +13,6 @@ categories: config jekyll
 + http://code.tutsplus.com/tutorials/using-jekyll--cms-20956
 
 ### Tuto
-
 Instalar Rubygems
 ```
 $ gem install jekyll
@@ -33,4 +30,3 @@ $ jekyll new .
 
 # Ver
 - [ ] Liquid
-

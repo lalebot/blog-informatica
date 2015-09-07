@@ -17,6 +17,8 @@ $ gem install jekyll
 
 # Agregar al /.bashrc
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
+
+$ gem install rouge # Highlighter
 ```
 
 ¿Actualizar las gemas luego?

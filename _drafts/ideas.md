@@ -1,1 +1,3 @@
-Estilo de vida
+# Ideas de post
+- Estilo de vida
+- Salvación
