@@ -35,8 +35,8 @@ unpublished: false
 whitelist: []
 gems:      []
 
-# Conversion
-markdown:    redcarpet #kramdown
+# Conversion (puede ser redcarpet)
+markdown:    kramdown
 highlighter: rouge
 lsi:         false
 excerpt_separator: "\n\n"
