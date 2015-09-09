@@ -1,9 +1,9 @@
 # Site settings
 title: Ale Blog
 email: ale@blog.com
-description: Simple Blog de testeo de Jekyll.
-baseurl: "/blog"
-url: "http://lalebot.github.io/"
+description: Simple Blog
+baseurl: ""
+url: "http://lalebot.github.io/blog"
 twitter_username: alepi
 github_username: lalebot
 timezone : America/Argentina/Cordoba
