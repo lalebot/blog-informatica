@@ -17,8 +17,8 @@ Así, entre todos vamos formando una manera de leer el texto, de abordar la tare
 
 Así el grupo forma en conjunto maneras de aprender y de interpretar. Cada uno aporta una parte, una perspectiva que se pule en los contraste con los demás integrantes.
 
-
 ---
+
 ¿Nunca se encontraron diciendo frases de otra persona? ¿Nunca se vieron pensando algún texto como si fueran otra persona? ¿No se preguntaron que observaría tal o cual si otro estuviera leyendo lo mismo? ¿Y escucharon comentarios como: "Si estaría 'Menganito' seguro diría algo así"?
 
 En los grupos surge esta dinámica, en donde unos con otros vamos aprendiendo de cómo piensa el otro, cómo interpreta, cómo llega a las concluciones y asimilamos aquello que nos parece útil.
