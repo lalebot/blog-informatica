@@ -38,4 +38,4 @@ Ejemplos
 
 uno aprende a traves de la forma que aprende el grupo y los movimiento.
 
-agregá este artículo http://www.ecured.cu/index.php/Aprendizaje_grupal metele cosas de dios y de pichon
+agregá este artículo http://www.ecured.cu/index.php/Aprendizaje_grupal metele cosas de di y de pichon
