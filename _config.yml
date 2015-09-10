@@ -1,7 +1,7 @@
 # Site settings
 title: Ale Blog
 email: ale@blog.com
-description: Simple Blog de testeo de Jekyll.
+description: Simple Blog
 baseurl: "/blog"
 url: "http://lalebot.github.io/"
 twitter_username: alepi

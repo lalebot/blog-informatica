@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Test"
+title:  "Contacto"
 date:   2015-09-06
 ---
 
-Testeo
+Contacto del tercer tipo
