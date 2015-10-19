@@ -1,10 +1,10 @@
 # Site settings
-title: Ale Blog
+title: Info Blog
 email: ale@blog.com
-description: Simple Blog
-baseurl: "/blog"
+description: Blog sobre informática
+baseurl: "/blog-informatica"
 url: "http://lalebot.github.io/"
-twitter_username: alepi
+twitter_username: apistilli
 github_username: lalebot
 timezone : America/Argentina/Cordoba
 

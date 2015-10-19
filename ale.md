@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ale
+title: Informática
 permalink: /acerca/
 ---
 
