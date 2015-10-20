@@ -2,8 +2,8 @@
 title: Info Blog
 email: ale@blog.com
 description: Blog sobre informática
-baseurl: "/blog-informatica"
-url: "http://lalebot.github.io/"
+baseurl: /blog-informatica
+url: http://lalebot.github.io/blog-informatica
 twitter_username: apistilli
 github_username: lalebot
 timezone : America/Argentina/Cordoba
