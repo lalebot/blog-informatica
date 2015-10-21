@@ -15,3 +15,17 @@
     - practico
     - sencillo
     - corto
+
+- ccleaner
+- adwclenaer
+- avast
+- malwarebytes
+
+
+buscar el tema de los tags para armar tagueos de  busqueda
+seguridad
+windows
+linux
+software libre
+antivirus
+varios
