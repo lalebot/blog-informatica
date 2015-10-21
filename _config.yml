@@ -1,7 +1,7 @@
 # Site settings
 title: Info Blog
 email: ale@blog.com
-description: Blog sobre informática
+description: Blog de difusión sobre informática práctica.
 baseurl: /blog-informatica
 url: http://lalebot.github.io/blog-informatica
 twitter_username: apistilli

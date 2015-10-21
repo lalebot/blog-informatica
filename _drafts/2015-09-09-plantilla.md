@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Empezando un blog"
-tags: personal 
+tags: seguridad, antivirus
 category: 
 date: 2015-10-08
-summary: Sobre empezar un blog
+summary: descripcion
 ---
 
-Empezando
+# Empezando
